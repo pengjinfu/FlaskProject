@@ -1,4 +1,5 @@
 ## 说明
+本文不是本人所写，而是网络上的资源，只用于学习，如有需要请拿走，使用时标明原来源即可，不可作它途使用！
 本教程翻译自[Miguel Grinberg的blog](https://blog.miguelgrinberg.com)的[2017年新版The Flask Mega-Tutorial教程](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)，以供英语能力较弱的开发人员参考。感谢Miguel Grinberg！
 
 全部二十三章都已完成翻译，如果有任何版权问题，请联系luhuisicnu@163.com。
