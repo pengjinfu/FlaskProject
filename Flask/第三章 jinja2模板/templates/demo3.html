@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>过滤器</title>
+</head>
+<body>
+<h1>模板过滤器的使用方式</h1>
+
+<br>
+<hr>
+{#过滤器的格式： 变量名称 | 过滤器的名称 #}
+{{ "baidu" | upper }}
+<br>
+{{ "BAIDU" | lower }}
+<br>
+{{ "baidu" | reverse }}
+<br>
+{#过滤器的链式调用 （多个过滤器一起使用中间用|隔开即可）#}
+{{ "baidu" | upper | reverse }}
+<br>
+<hr>
+<h2>列表的过滤器使用</h2>
+<br>
+{{ list | first }}
+<br>
+{{ list | last }}
+<br>
+{{ list | length }}
+<br>
+{{ list | sort }}
+<br>
+<h2>对列表中商品的价格求和</h2>
+{{ goods_list | sum(attribute='price') }}
+</body>
+</html>
