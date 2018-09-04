@@ -68,6 +68,29 @@
 很明显，其中的内容会出现在渲染后的 HTML 文档头部，放在 <title> 标签中。 navbar 和 content 这两个块分别表示页面中的导航条和主体内容。
 
     在这个模板中， navbar 块使用 Bootstrap 组件定义了一个简单的导航条。 content 块中有个<div> 容器，其中包含一个页面头部。
+
+6.Flask_Bootstrap基模板中定义的块
+块名                  说　　明
+doc                整个 HTML 文档
+html_attribs       <html> 标签的属性
+html               <html> 标签中的内容
+head               <head> 标签中的内容
+title              <title> 标签中的内容
+metas              一组 <meta> 标签
+styles              层叠样式表定义
+body_attribs        <body> 标签的属性
+body                <body> 标签中的内容
+navbar              用户定义的导航条
+content             用户定义的页面内容
+scripts             文档底部的 JavaScript 声明
+
+如果程序需要向已经有内容的块中添加新内容， 必须使用 Jinja2 提供的 super() 函数。
+例如，如果要在衍生模板中添加新的 JavaScript 文件，需要这么定义 scripts 块：
+{% block scripts %}
+{{ super() }}
+<script type="text/javascript" src="my-script.js"></script>
+{% endblock %}
+
 """
 from flask import Flask, render_template
 from flask_bootstrap import Bootstrap
