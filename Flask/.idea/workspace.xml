@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05d8813a-b820-466b-baa8-8cf1b09d12ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/第三章 jinja2模板/demo5（flask_bootstrap）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章 jinja2模板/templates/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章 jinja2模板/templates/user5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三章 jinja2模板/demo5（flask_bootstrap）.py" beforeDir="false" afterPath="$PROJECT_DIR$/第三章 jinja2模板/demo5（flask_bootstrap）.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +22,7 @@
     <SUITE FILE_PATH="coverage/Flask$demo17_request.coverage" NAME="demo17(request详解） Coverage Results" MODIFIED="1535033430192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 Flask的基本结构" />
     <SUITE FILE_PATH="coverage/Flask$demo1_.coverage" NAME="demo1(模板初体验） Coverage Results" MODIFIED="1535035563886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 jinja2模板" />
     <SUITE FILE_PATH="coverage/Flask$demo10_____.coverage" NAME="demo10(请求--响应循环--响应） Coverage Results" MODIFIED="1535029458773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 Flask的基本结构" />
+    <SUITE FILE_PATH="coverage/Flask$demo5flask_bootstrap.coverage" NAME="demo5（flask_bootstrap） Coverage Results" MODIFIED="1536061879009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 jinja2模板" />
     <SUITE FILE_PATH="coverage/Flask$demo13_.coverage" NAME="demo13(异常详解） Coverage Results" MODIFIED="1535030829911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 Flask的基本结构" />
     <SUITE FILE_PATH="coverage/Flask$demo2_route.coverage" NAME="demo2_route Coverage Results" MODIFIED="1535031877364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Python/第三阶段---Flask框架/day01(视图和路由)/04-code" />
     <SUITE FILE_PATH="coverage/Flask$demo14.coverage" NAME="demo14（正则匹配路由） Coverage Results" MODIFIED="1535032722653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 Flask的基本结构" />
@@ -79,13 +82,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="2" />
+          <entry key="html" value="12" />
           <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
+          <entry key="HTML" value="12" />
           <entry key="Python" value="9" />
         </counts>
       </usages-collector>
@@ -93,15 +96,15 @@
         <counts>
           <entry key="dummy" value="1" />
           <entry key="html" value="33" />
-          <entry key="py" value="664" />
-          <entry key="txt" value="62" />
+          <entry key="py" value="838" />
+          <entry key="txt" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="33" />
-          <entry key="PLAIN_TEXT" value="63" />
-          <entry key="Python" value="664" />
+          <entry key="PLAIN_TEXT" value="85" />
+          <entry key="Python" value="838" />
         </counts>
       </usages-collector>
     </session>
@@ -109,64 +112,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/demo1(模板初体验）.py">
+        <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/demo5（flask_bootstrap）.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/demo2(模板的使用）.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://G:/Python/第三阶段---Flask框架/day02(request&amp;状态保持&amp;模板)/04-code/demo8_template_filter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/demo3(过滤器）.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="828">
-              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/demo4(循环结构）.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
+            <state relative-caret-position="134">
+              <caret line="83" column="6" selection-start-line="83" selection-start-column="6" selection-end-line="83" selection-end-column="6" />
+              <folding>
+                <element signature="e#2321#2360#0" expanded="true" />
+                <marker date="1536061871616" expanded="true" signature="2480:2485" ph="..." />
+                <marker date="1536061871616" expanded="true" signature="2567:2572" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/demo5（flask_bootstrap）.py">
+        <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/templates/user5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="70" column="3" lean-forward="true" selection-start-line="70" selection-start-column="3" selection-end-line="70" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../Spider/英雄联盟/王者荣耀.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+            <state relative-caret-position="-69">
+              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -244,7 +207,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="559" />
+    <option name="x" value="416" />
     <option name="width" value="815" />
     <option name="height" value="720" />
   </component>
@@ -267,6 +230,12 @@
               <item name="Flask" type="462c0819:PsiDirectoryNode" />
               <item name="第三章 jinja2模板" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Flask" type="462c0819:PsiDirectoryNode" />
+              <item name="第三章 jinja2模板" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -282,14 +251,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\Flask\Flask\第三章 jinja2模板" />
-      <recent name="C:\Users\Administrator\Desktop\Flask\Flask\第二章 Flask的基本结构" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\Flask\Flask\第三章 jinja2模板" />
       <recent name="C:\Users\Administrator\Desktop\Flask\Flask\第二章 Flask的基本结构" />
       <recent name="C:\Users\Administrator\Desktop\Flask\Flask" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\FlaskProject\FlaskProject\Flask\第三章 jinja2模板\templates" />
+      <recent name="C:\Users\Administrator\Desktop\Flask\Flask\第三章 jinja2模板" />
+      <recent name="C:\Users\Administrator\Desktop\Flask\Flask\第二章 Flask的基本结构" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -304,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.王者荣耀">
+  <component name="RunManager" selected="Python.demo5（flask_bootstrap）">
     <configuration name="王者荣耀" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Flask" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -319,28 +289,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Spider/英雄联盟/王者荣耀.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo17(request详解）" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Flask" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章 Flask的基本结构" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章 Flask的基本结构/demo17(request详解）.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -415,20 +363,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="demo5（flask_bootstrap）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三章 jinja2模板" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章 jinja2模板/demo5（flask_bootstrap）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.demo17(request详解）" />
       <item itemvalue="Python.demo1(模板初体验）" />
       <item itemvalue="Python.demo2(模板的使用）" />
       <item itemvalue="Python.demo3(过滤器）" />
       <item itemvalue="Python.王者荣耀" />
+      <item itemvalue="Python.demo5（flask_bootstrap）" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo5（flask_bootstrap）" />
         <item itemvalue="Python.王者荣耀" />
         <item itemvalue="Python.demo3(过滤器）" />
         <item itemvalue="Python.demo2(模板的使用）" />
         <item itemvalue="Python.demo1(模板初体验）" />
-        <item itemvalue="Python.demo17(request详解）" />
       </list>
     </recent_temporary>
   </component>
@@ -457,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536059929159</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="关于flask_Bootstrap的说明">
+      <created>1536060920221</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1536060920221</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -469,7 +446,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32786885" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3147541" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -496,30 +473,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="模板的使用" />
     <MESSAGE value="关于jinja2的循环结构说明，jinja2的宏使用和包含使用以及基模板的用法和定义。" />
-    <option name="LAST_COMMIT_MESSAGE" value="关于jinja2的循环结构说明，jinja2的宏使用和包含使用以及基模板的用法和定义。" />
+    <MESSAGE value="关于flask_Bootstrap的说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="关于flask_Bootstrap的说明" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/第二章 Flask的基本结构/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第二章 Flask的基本结构/demo1（创建flask对象）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第二章 Flask的基本结构/demo3(参数配置--初始化参数）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第二章 Flask的基本结构/demo4（参数设置--程序加载）.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
@@ -682,20 +639,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../git/flasky/hello.py" />
-    <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/templates/user.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../day02/demo08_template_filter.py" />
     <entry file="file://$PROJECT_DIR$/../day02/demo09_template_def.py" />
     <entry file="file://$PROJECT_DIR$/../day02/demo07_template.py" />
@@ -703,13 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
           <caret line="65" column="3" selection-start-line="65" selection-start-column="3" selection-end-line="65" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/templates/demo2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -722,13 +658,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/test.py" />
-    <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/templates/demo3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-46">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/demo1(模板初体验）.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -757,13 +686,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/demo3(过滤器）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/demo4(循环结构）.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -771,10 +693,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/templates/demo2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/templates/demo3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/demo3(过滤器）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/templates/user5.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/templates/index5.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/templates/user.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/demo5（flask_bootstrap）.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="70" column="3" lean-forward="true" selection-start-line="70" selection-start-column="3" selection-end-line="70" selection-end-column="3" />
+        <state relative-caret-position="134">
+          <caret line="83" column="6" selection-start-line="83" selection-start-column="6" selection-end-line="83" selection-end-column="6" />
+          <folding>
+            <element signature="e#2321#2360#0" expanded="true" />
+            <marker date="1536061871616" expanded="true" signature="2480:2485" ph="..." />
+            <marker date="1536061871616" expanded="true" signature="2567:2572" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/templates/user5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>

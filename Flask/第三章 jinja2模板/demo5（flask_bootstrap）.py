@@ -69,3 +69,22 @@
 
     在这个模板中， navbar 块使用 Bootstrap 组件定义了一个简单的导航条。 content 块中有个<div> 容器，其中包含一个页面头部。
 """
+from flask import Flask, render_template
+from flask_bootstrap import Bootstrap
+
+app = Flask(__name__)
+bootstrap = Bootstrap(app)
+
+
+@app.route('/')
+def index():
+    return render_template("index5.html")
+
+
+@app.route("/user/<name>")
+def user(name):
+    return render_template("user5.html", name=name)
+
+
+if __name__ == '__main__':
+    app.run(debug=True)
