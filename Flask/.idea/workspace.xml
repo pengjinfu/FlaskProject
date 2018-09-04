@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05d8813a-b820-466b-baa8-8cf1b09d12ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/第三章 jinja2模板/demo7(Flask-Moment本地化日期和时间).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第三章 jinja2模板/templates/base1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第四章 web表单/demo1(跨站请求伪造保护).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第四章 web表单/function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三章 jinja2模板/demo6(自定义错误页面).py" beforeDir="false" afterPath="$PROJECT_DIR$/第三章 jinja2模板/demo6(自定义错误页面).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三章 jinja2模板/templates/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/第三章 jinja2模板/templates/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三章 jinja2模板/templates/500.html" beforeDir="false" afterPath="$PROJECT_DIR$/第三章 jinja2模板/templates/500.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第四章 web表单/demo2(表单类).py" beforeDir="false" afterPath="$PROJECT_DIR$/第四章 web表单/demo2(表单类).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,48 +81,39 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="16" />
-          <entry key="py" value="37" />
+          <entry key="py" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="16" />
-          <entry key="Python" value="37" />
+          <entry key="Python" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
           <entry key="html" value="35" />
-          <entry key="py" value="1409" />
-          <entry key="txt" value="166" />
+          <entry key="py" value="1603" />
+          <entry key="txt" value="194" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="35" />
-          <entry key="PLAIN_TEXT" value="172" />
-          <entry key="Python" value="1409" />
+          <entry key="PLAIN_TEXT" value="200" />
+          <entry key="Python" value="1603" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第四章 web表单/function.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第四章 web表单/demo1(跨站请求伪造保护).py">
+        <entry file="file://$PROJECT_DIR$/第四章 web表单/demo2(表单类).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+            <state relative-caret-position="-141">
+              <caret line="14" column="95" selection-start-line="14" selection-start-column="95" selection-end-line="14" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -144,13 +129,20 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Flask-WTF</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Flask_WTF</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/第二章 Flask的基本结构/demo7请求--响应循环）.py" />
         <option value="$PROJECT_DIR$/第二章 Flask的基本结构/demo8(.py" />
         <option value="$PROJECT_DIR$/第二章 Flask的基本结构/demo8(请求--响应循环--请求调度）.py" />
         <option value="$PROJECT_DIR$/第二章 Flask的基本结构/demo11(json数据）.py" />
@@ -201,6 +193,7 @@
         <option value="$PROJECT_DIR$/第四章 web表单/functio.py" />
         <option value="$PROJECT_DIR$/第四章 web表单/function.py" />
         <option value="$PROJECT_DIR$/第四章 web表单/demo1(跨站请求伪造保护).py" />
+        <option value="$PROJECT_DIR$/第四章 web表单/demo2(表单类).py" />
       </list>
     </option>
   </component>
@@ -463,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536063894635</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="第三章中，Flask-Moment使用，开始第四章学习，并创建相关demo">
+      <created>1536066102875</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1536066102875</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -507,7 +507,8 @@
     <MESSAGE value="Flask_Bootstrap基模板中定义的块" />
     <MESSAGE value="接着第二章demo10自定义错误页面。" />
     <MESSAGE value="由于以前的注释太长，用了自动换行，但是打开之后又要设置换行，比较麻烦对注释进行了整理" />
-    <option name="LAST_COMMIT_MESSAGE" value="由于以前的注释太长，用了自动换行，但是打开之后又要设置换行，比较麻烦对注释进行了整理" />
+    <MESSAGE value="第三章中，Flask-Moment使用，开始第四章学习，并创建相关demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三章中，Flask-Moment使用，开始第四章学习，并创建相关demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -521,14 +522,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/第二章 Flask的基本结构/demo16(扩展Flask-Script).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../day02/demo04_session.py" />
     <entry file="file://$PROJECT_DIR$/../../git/flasky/hello.py" />
     <entry file="file://$PROJECT_DIR$/../day02/demo08_template_filter.py" />
     <entry file="file://$PROJECT_DIR$/../day02/demo09_template_def.py" />
@@ -812,8 +805,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/第四章 web表单/demo1(跨站请求伪造保护).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        <state relative-caret-position="66">
+          <caret line="11" column="87" lean-forward="true" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python36/Lib/site-packages/wtforms/fields/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-515">
+          <caret line="544" column="44" selection-start-line="544" selection-start-column="44" selection-end-line="544" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四章 web表单/demo2(表单类).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141">
+          <caret line="14" column="95" selection-start-line="14" selection-start-column="95" selection-end-line="14" selection-end-column="95" />
         </state>
       </provider>
     </entry>
