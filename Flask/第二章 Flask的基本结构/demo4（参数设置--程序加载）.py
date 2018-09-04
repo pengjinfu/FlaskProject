@@ -3,7 +3,8 @@
 # Author:Dreamer
 # Time:2018.8.1
 """
-在 Flask 程序运行的时候，可以给 Flask 设置相关配置，比如：配置 Debug 模式，配置数据库连接地址等等，设置 Flask 配置有以下三种方式：
+在 Flask 程序运行的时候，可以给 Flask 设置相关配置，比如：配置 Debug 模式，配置数据库连接地址等等，
+设置 Flask 配置有以下三种方式：
     从配置对象中加载(常用)
         app.config.from_object()
     从配置文件中加载

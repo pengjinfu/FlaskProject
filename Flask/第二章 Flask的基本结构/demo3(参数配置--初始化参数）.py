@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding:utf-8 -*-
 # Author:Dreamer
-# Time:2018.8.16
+# Time:2018.8.1
 
 from flask import Flask
 
@@ -24,9 +24,11 @@ if __name__ == '__main__':
     app.run()
 
 """
-1.Flask 类的构造函数只有一个必须指定的参数，即程序主模块或包的名字。在大多数程序中， Python 的 __name__ 变量就是所需的值。
+1.Flask 类的构造函数只有一个必须指定的参数，即程序主模块或包的名字。在大多数程序中， Python 的 __name__ 
+变量就是所需的值。
 
-2.将构造函数的 name 参数传给 Flask 程序，这一点可能会让 Flask 开发新手心生迷惑。 Flask 用这个参数决定程序的根目录，以便稍后能够找到相对于程序根目录的资源文件位置。
+2.将构造函数的 name 参数传给 Flask 程序，这一点可能会让 Flask 开发新手心生迷惑。 Flask 用这个参数决定程序的
+根目录，以便稍后能够找到相对于程序根目录的资源文件位置。
 
 3.参数说明：
     static_url_path = None,  # 静态文件目录的url路径 默认不写是与static_folder同名,远程静态文件时复用
