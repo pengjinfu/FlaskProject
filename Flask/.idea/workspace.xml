@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05d8813a-b820-466b-baa8-8cf1b09d12ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/第四章 web表单/demo4(在视图函数中处理表单).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 web表单/demo5(重定向和用户会话).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 web表单/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 web表单/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 web表单/templates/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 web表单/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章 web表单/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/第四章 web表单/demo2(表单类).py" beforeDir="false" afterPath="$PROJECT_DIR$/第四章 web表单/demo2(表单类).py" afterDir="false" />
     </list>
@@ -20,7 +27,7 @@
     <SUITE FILE_PATH="coverage/Flask$demo17_request.coverage" NAME="demo17(request详解） Coverage Results" MODIFIED="1535033430192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 Flask的基本结构" />
     <SUITE FILE_PATH="coverage/Flask$demo1_.coverage" NAME="demo1(模板初体验） Coverage Results" MODIFIED="1535035563886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 jinja2模板" />
     <SUITE FILE_PATH="coverage/Flask$demo10_____.coverage" NAME="demo10(请求--响应循环--响应） Coverage Results" MODIFIED="1535029458773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 Flask的基本结构" />
-    <SUITE FILE_PATH="coverage/Flask$demo5flask_bootstrap.coverage" NAME="demo5（flask_bootstrap） Coverage Results" MODIFIED="1536064647038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 jinja2模板" />
+    <SUITE FILE_PATH="coverage/Flask$demo5flask_bootstrap.coverage" NAME="demo5（flask_bootstrap） Coverage Results" MODIFIED="1536068626737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 jinja2模板" />
     <SUITE FILE_PATH="coverage/Flask$demo13_.coverage" NAME="demo13(异常详解） Coverage Results" MODIFIED="1535030829911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 Flask的基本结构" />
     <SUITE FILE_PATH="coverage/Flask$demo2_route.coverage" NAME="demo2_route Coverage Results" MODIFIED="1535031877364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Python/第三阶段---Flask框架/day01(视图和路由)/04-code" />
     <SUITE FILE_PATH="coverage/Flask$demo14.coverage" NAME="demo14（正则匹配路由） Coverage Results" MODIFIED="1535032722653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 Flask的基本结构" />
@@ -30,7 +37,7 @@
     <SUITE FILE_PATH="coverage/Flask$demo2_.coverage" NAME="demo2(模板的使用） Coverage Results" MODIFIED="1535117669838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 jinja2模板" />
     <SUITE FILE_PATH="coverage/Flask$demo8_____.coverage" NAME="demo8(请求--响应循环--请求调度） Coverage Results" MODIFIED="1535023949569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 Flask的基本结构" />
     <SUITE FILE_PATH="coverage/Flask$.coverage" NAME="王者荣耀 Coverage Results" MODIFIED="1535122468050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Spider/英雄联盟" />
-    <SUITE FILE_PATH="coverage/Flask$demo4__.coverage" NAME="demo4（参数设置--程序加载） Coverage Results" MODIFIED="1535019255470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 Flask的基本结构" />
+    <SUITE FILE_PATH="coverage/Flask$demo4__.coverage" NAME="demo4(在视图函数中处理表单) Coverage Results" MODIFIED="1536068649906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第四章 web表单" />
     <SUITE FILE_PATH="coverage/Flask$demo3_.coverage" NAME="demo3(过滤器） Coverage Results" MODIFIED="1535121226155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章 jinja2模板" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -80,42 +87,59 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="16" />
-          <entry key="py" value="40" />
+          <entry key="html" value="17" />
+          <entry key="py" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="16" />
-          <entry key="Python" value="40" />
+          <entry key="HTML" value="17" />
+          <entry key="Python" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
           <entry key="html" value="35" />
-          <entry key="py" value="1603" />
-          <entry key="txt" value="194" />
+          <entry key="py" value="1697" />
+          <entry key="txt" value="219" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="35" />
-          <entry key="PLAIN_TEXT" value="200" />
-          <entry key="Python" value="1603" />
+          <entry key="PLAIN_TEXT" value="225" />
+          <entry key="Python" value="1697" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第四章 web表单/demo2(表单类).py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第四章 web表单/demo3(把表单渲染成HTML).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-141">
-              <caret line="14" column="95" selection-start-line="14" selection-start-column="95" selection-end-line="14" selection-end-column="95" />
+            <state relative-caret-position="158">
+              <caret line="46" column="53" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第四章 web表单/demo4(在视图函数中处理表单).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+              <folding>
+                <element signature="e#1248#1288#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第四章 web表单/demo5(重定向和用户会话).py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -143,9 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/第二章 Flask的基本结构/demo8(.py" />
-        <option value="$PROJECT_DIR$/第二章 Flask的基本结构/demo8(请求--响应循环--请求调度）.py" />
-        <option value="$PROJECT_DIR$/第二章 Flask的基本结构/demo11(json数据）.py" />
         <option value="$PROJECT_DIR$/第二章 Flask的基本结构/demo9(请求--响应循环--请求勾子）.py" />
         <option value="$PROJECT_DIR$/第二章 Flask的基本结构/demo12(异常详解）.py" />
         <option value="G:/Python/第三阶段---Flask框架/day01(视图和路由)/04-code/demo6_errorhander.py" />
@@ -193,7 +214,10 @@
         <option value="$PROJECT_DIR$/第四章 web表单/functio.py" />
         <option value="$PROJECT_DIR$/第四章 web表单/function.py" />
         <option value="$PROJECT_DIR$/第四章 web表单/demo1(跨站请求伪造保护).py" />
+        <option value="$PROJECT_DIR$/第四章 web表单/demo3(把表单渲染成HTML).py" />
         <option value="$PROJECT_DIR$/第四章 web表单/demo2(表单类).py" />
+        <option value="$PROJECT_DIR$/第四章 web表单/demo4(在视图函数中处理表单).py" />
+        <option value="$PROJECT_DIR$/第四章 web表单/demo5(重定向和用户会话).py" />
       </list>
     </option>
   </component>
@@ -250,10 +274,11 @@
       <recent name="C:\Users\Administrator\Desktop\Flask\Flask" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\FlaskProject\FlaskProject\Flask\第四章 web表单\templates" />
+      <recent name="C:\Users\Administrator\Desktop\FlaskProject\FlaskProject\Flask\第四章 web表单" />
       <recent name="C:\Users\Administrator\Desktop\FlaskProject\FlaskProject\Flask\第三章 jinja2模板" />
       <recent name="C:\Users\Administrator\Desktop\FlaskProject\FlaskProject\Flask\第三章 jinja2模板\templates" />
       <recent name="C:\Users\Administrator\Desktop\Flask\Flask\第三章 jinja2模板" />
-      <recent name="C:\Users\Administrator\Desktop\Flask\Flask\第二章 Flask的基本结构" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -268,7 +293,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo5（flask_bootstrap）">
+  <component name="RunManager" selected="Python.demo4(在视图函数中处理表单)">
     <configuration name="王者荣耀" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Flask" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,28 +308,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Spider/英雄联盟/王者荣耀.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo1(模板初体验）" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Flask" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三章 jinja2模板" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章 jinja2模板/demo1(模板初体验）.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -357,6 +360,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="demo4(在视图函数中处理表单)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第四章 web表单" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第四章 web表单/demo4(在视图函数中处理表单).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="demo5（flask_bootstrap）" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Flask" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -380,19 +405,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.demo1(模板初体验）" />
       <item itemvalue="Python.demo2(模板的使用）" />
       <item itemvalue="Python.demo3(过滤器）" />
       <item itemvalue="Python.王者荣耀" />
       <item itemvalue="Python.demo5（flask_bootstrap）" />
+      <item itemvalue="Python.demo4(在视图函数中处理表单)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo4(在视图函数中处理表单)" />
         <item itemvalue="Python.demo5（flask_bootstrap）" />
         <item itemvalue="Python.王者荣耀" />
         <item itemvalue="Python.demo3(过滤器）" />
         <item itemvalue="Python.demo2(模板的使用）" />
-        <item itemvalue="Python.demo1(模板初体验）" />
       </list>
     </recent_temporary>
   </component>
@@ -463,7 +488,21 @@
       <option name="project" value="LOCAL" />
       <updated>1536066102875</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="表单类及相关说明">
+      <created>1536066878967</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1536066878967</updated>
+    </task>
+    <task id="LOCAL-00010" summary="把表单类渲染成HTML">
+      <created>1536067577379</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1536067577379</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -508,7 +547,9 @@
     <MESSAGE value="接着第二章demo10自定义错误页面。" />
     <MESSAGE value="由于以前的注释太长，用了自动换行，但是打开之后又要设置换行，比较麻烦对注释进行了整理" />
     <MESSAGE value="第三章中，Flask-Moment使用，开始第四章学习，并创建相关demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="第三章中，Flask-Moment使用，开始第四章学习，并创建相关demo" />
+    <MESSAGE value="表单类及相关说明" />
+    <MESSAGE value="把表单类渲染成HTML" />
+    <option name="LAST_COMMIT_MESSAGE" value="把表单类渲染成HTML" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -522,10 +563,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../git/flasky/hello.py" />
-    <entry file="file://$PROJECT_DIR$/../day02/demo08_template_filter.py" />
-    <entry file="file://$PROJECT_DIR$/../day02/demo09_template_def.py" />
-    <entry file="file://$PROJECT_DIR$/../day02/demo07_template.py" />
     <entry file="file://$PROJECT_DIR$/第三章 jinja2模板/第三章 jinja2模板.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
@@ -817,10 +854,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/第四章 web表单/demo3(把表单渲染成HTML).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="46" column="53" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四章 web表单/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/第四章 web表单/demo2(表单类).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-141">
-          <caret line="14" column="95" selection-start-line="14" selection-start-column="95" selection-end-line="14" selection-end-column="95" />
+        <state relative-caret-position="23">
+          <caret line="14" column="91" selection-start-line="14" selection-start-column="91" selection-end-line="14" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四章 web表单/demo5(重定向和用户会话).py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四章 web表单/demo4(在视图函数中处理表单).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#1248#1288#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

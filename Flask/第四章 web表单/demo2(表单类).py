@@ -12,7 +12,7 @@ from flask_wtf import Form
 from wtforms import StringField, SubmitField
 from wtforms.validators import Required
 class NameForm(Form):
-name = StringField('What is your name?', validators=[Required()])  validators=[Required()])已经弃用
+name = StringField('What is your name?', validators=[Required()])  validators=[Required()])
 submit = SubmitField('Submit')
 
 这个表单中的字段都定义为类变量，类变量的值是相应字段类型的对象。在这个示例中，NameForm 表单中有一个名为 name
